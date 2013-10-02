@@ -1,0 +1,3 @@
+
+fixed check b : changed "in" to "extends" in  both Double and Single roomType sigs
+fixed all other checks: simply created a fact with exactly the same parameters as the relevant check.
